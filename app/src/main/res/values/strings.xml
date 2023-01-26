@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyTicTacToe</string>
+    <string name="jugador_X">Jugador 1</string>
+    <string name="jugador_O">Jugador 2</string>
+    <string name="empates">Empates</string>
+    <string name="threeInLine">Tres en raya</string>
+    <string name="btn_play">Jugar</string>
+</resources>
